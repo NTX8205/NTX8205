@@ -19,35 +19,49 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-345.91%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-345.91%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 我的 GitHub 数据** 
 
-> 📦 165.6 kB Used in GitHub's Storage 
+> 📦  使用了 165.6 kB GitHub 存储空间 
  > 
-> 🏆 17 Contributions in the Year 2026
+> 🏆 17 个贡献，在 2026 年
  > 
-> 🚫 Not Opted to Hire
+> 🚫 不开放招聘
  > 
-> 📜 19 Public Repositories 
+> 📜 19 个公共仓库 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 18 个私人仓库 
  > 
-**I'm an Early 🐤** 
+**我是早鸟 🐤** 
 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">115 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="91" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">25.33%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">141 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="112" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">31.06%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">111 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="88" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">24.45%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">87 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="69" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">19.16%</text></svg>
-📅 **I'm Most Productive on Thursday** 
+```text
+🌞 早晨                     115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌆 白天                     141 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
+🌃 傍晚                     113 commits         ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌙 晚上                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+```
+📅 **星期四 时的我最有干劲** 
 
-<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">37 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="29" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">8.15%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">74 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="59" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">16.30%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">63 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="50" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">13.88%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">145 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="115" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">31.94%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">53 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="42" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">11.67%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">43 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="126" width="34" height="8" rx="4" fill="#90CAF9"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">9.47%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">39 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="150" width="31" height="8" rx="4" fill="#90CAF9"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">8.59%</text></svg>
+```text
+星期一                      37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+星期二                      76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+星期三                      63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+星期四                      145 commits         ████████░░░░░░░░░░░░░░░░░   31.80 % 
+星期五                      53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+星期六                      43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+星期日                      39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **本周消耗时间** 
 
-🕑︎ Time Zone: Asia/Taipei
+```text
+🕑︎ 时区: Asia/Taipei
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
+💬 编程语言: 
+本周没有记录到任何活动
+```
 
 🤖 **AI Coding This Week** 
 
@@ -55,10 +69,10 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**Timeline**
+**时间线**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 12:18:36 UTC
+ Last Updated on 08/09/2026 12:37:21 UTC
 <!--END_SECTION:waka-->
