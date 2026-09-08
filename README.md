@@ -23,65 +23,66 @@ Here are some ideas to get you started:
 ## Code status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-345.91%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 165.6 kB Used in GitHub's Storage
- >
-> 🏆 21 Contributions in the Year 2026
- >
+> 📦 165.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2026
+ > 
 > 🚫 Not Opted to Hire
- >
-> 📜 19 Public Repositories
- >
-> 🔑 18 Private Repositories
- >
-**I'm an Early 🐤**
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-🌆 Daytime                141 commits         ████████░░░░░░░░░░░░░░░░░   30.79 % 
-🌃 Evening                115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-🌙 Night                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+🌞 Morning                115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌆 Daytime                141 commits         ████████░░░░░░░░░░░░░░░░░   30.65 % 
+🌃 Evening                117 commits         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+🌙 Night                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 ```
-
-📅 **I'm Most Productive on Thursday**
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Wednesday                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Thursday                 145 commits         ████████░░░░░░░░░░░░░░░░░   31.66 % 
-Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Sunday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Monday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Wednesday                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Thursday                 145 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Sunday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     50 mins             ████████████████░░░░░░░░░   63.60 % 
+Markdown                 29 mins             █████████░░░░░░░░░░░░░░░░   36.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week**
+🤖 **AI Coding This Week** 
 
 ```text
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Python**
+**I Mostly Code in Python** 
 
 ```text
 Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
@@ -91,9 +92,12 @@ Vue                      1 repo              █░░░░░░░░░░�
 Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
+
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
- Last Updated on 08/09/2026 12:44:13 UTC
+
+ Last Updated on 08/09/2026 21:18:20 UTC
 <!--END_SECTION:waka-->
