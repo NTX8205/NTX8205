@@ -19,48 +19,54 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-345.91%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-345.91%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 我的 GitHub 数据** 
+**🐱 My GitHub Data** 
 
-> 📦  使用了 165.6 kB GitHub 存储空间 
+> 📦 165.6 kB Used in GitHub's Storage 
  > 
-> 🏆 17 个贡献，在 2026 年
+> 🏆 21 Contributions in the Year 2026
  > 
-> 🚫 不开放招聘
+> 🚫 Not Opted to Hire
  > 
-> 📜 19 个公共仓库 
+> 📜 19 Public Repositories 
  > 
-> 🔑 18 个私人仓库 
+> 🔑 18 Private Repositories 
  > 
-**我是早鸟 🐤** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 早晨                     115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌆 白天                     141 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
-🌃 傍晚                     113 commits         ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-🌙 晚上                     87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌞 Morning                115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+🌆 Daytime                141 commits         ████████░░░░░░░░░░░░░░░░░   30.79 % 
+🌃 Evening                115 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+🌙 Night                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 ```
-📅 **星期四 时的我最有干劲** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-星期一                      37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-星期二                      76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-星期三                      63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-星期四                      145 commits         ████████░░░░░░░░░░░░░░░░░   31.80 % 
-星期五                      53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-星期六                      43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-星期日                      39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Monday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Wednesday                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Thursday                 145 commits         ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Sunday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 ```
 
 
-📊 **本周消耗时间** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ 时区: Asia/Taipei
+🕑︎ Time Zone: Asia/Taipei
 
-💬 编程语言: 
-本周没有记录到任何活动
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,10 +75,22 @@ Here are some ideas to get you started:
 No AI Coding Activity Tracked This Week
 ```
 
-**时间线**
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 12:37:21 UTC
+ Last Updated on 08/09/2026 12:44:13 UTC
 <!--END_SECTION:waka-->
