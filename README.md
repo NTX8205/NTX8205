@@ -66,14 +66,13 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     50 mins             ████████████████░░░░░░░░░   63.60 % 
-Markdown                 29 mins             █████████░░░░░░░░░░░░░░░░   36.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,5 +98,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:56:31 UTC
+ Last Updated on 15/09/2026 21:34:34 UTC
 <!--END_SECTION:waka-->
