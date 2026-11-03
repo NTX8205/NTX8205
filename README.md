@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 ## Code status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-346.80%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-346.83%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 165.8 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 33 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,48 +39,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                121 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-🌆 Daytime                172 commits         ████████░░░░░░░░░░░░░░░░░   32.76 % 
-🌃 Evening                145 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-🌙 Night                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Tuesday                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Wednesday                71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Thursday                 151 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Saturday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Sunday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -98,5 +56,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2026 01:07:43 UTC
+ Last Updated on 03/11/2026 23:32:21 UTC
 <!--END_SECTION:waka-->
