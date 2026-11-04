@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-346.83%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-237.85%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,6 +39,50 @@ Here are some ideas to get you started:
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                120 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+🌆 Daytime                167 commits         ████████░░░░░░░░░░░░░░░░░   32.68 % 
+🌃 Evening                142 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌙 Night                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Tuesday                  81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Wednesday                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Thursday                 146 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Sunday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Python                   4 mins              ████████████████░░░░░░░░░   65.03 % 
+SSH Config               1 min               ████████░░░░░░░░░░░░░░░░░   30.78 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+
+🔥 Editors: 
+VS Code                  6 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -56,5 +100,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2026 23:32:21 UTC
+ Last Updated on 04/11/2026 23:50:11 UTC
 <!--END_SECTION:waka-->
