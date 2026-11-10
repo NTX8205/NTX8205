@@ -66,15 +66,13 @@ Sunday                   48 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   4 mins              ████████████████░░░░░░░░░   65.03 % 
-SSH Config               1 min               ████████░░░░░░░░░░░░░░░░░   30.78 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+SSH Config               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,5 +98,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 22:18:53 UTC
+ Last Updated on 10/11/2026 01:41:15 UTC
 <!--END_SECTION:waka-->
