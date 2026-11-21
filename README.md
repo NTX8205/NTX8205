@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Code status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347.26%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -66,13 +66,16 @@ Sunday                   53 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+INI                      19 mins             ████████████░░░░░░░░░░░░░   46.08 % 
+Pawn                     14 mins             ████████░░░░░░░░░░░░░░░░░   33.63 % 
+VBScript                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Lua                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,5 +101,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 00:45:13 UTC
+ Last Updated on 21/11/2026 00:05:02 UTC
 <!--END_SECTION:waka-->
