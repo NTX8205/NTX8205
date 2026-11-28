@@ -66,16 +66,13 @@ Sunday                   48 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-INI                      19 mins             ████████████░░░░░░░░░░░░░   46.08 % 
-Pawn                     14 mins             ████████░░░░░░░░░░░░░░░░░   33.63 % 
-VBScript                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Lua                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,5 +98,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NTX8205/NTX8205/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 01:51:05 UTC
+ Last Updated on 28/11/2026 01:33:00 UTC
 <!--END_SECTION:waka-->
